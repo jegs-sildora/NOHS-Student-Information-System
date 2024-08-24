@@ -1,1 +1,1 @@
-# NOHS Student Informationn System
+# NOHS Student Information System
